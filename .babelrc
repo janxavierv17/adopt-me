@@ -1,0 +1,4 @@
+{
+  // Use the latest version of JSX
+  "presets": [["@babel/preset-react", { "runtime": "automatic" }]]
+}
